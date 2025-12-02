@@ -8,3 +8,5 @@ b = np.array([2,3,4,5])
 print(b) 
 
 c = a 
+
+d = np.array([3,43,3,3])
